@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Save data to excel sheet">
+	<test name="Save_data_Excel">
+		<classes>
+			<class name="com.excel.saveData.UsingExcel_SingleDataSet"></class>
+		</classes>
+	</test>
+</suite>

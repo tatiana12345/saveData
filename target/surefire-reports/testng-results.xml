@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Save data to excel sheet" duration-ms="25685" started-at="2017-08-03T20:15:51Z" finished-at="2017-08-03T20:16:17Z">
+    <groups>
+    </groups>
+    <test name="Save_data_Excel" duration-ms="25685" started-at="2017-08-03T20:15:51Z" finished-at="2017-08-03T20:16:17Z">
+      <class name="com.excel.saveData.UsingExcel_SingleDataSet">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.excel.saveData.UsingExcel_SingleDataSet@327471b5]" name="setUp" is-config="true" duration-ms="17641" started-at="2017-08-03T16:15:51Z" finished-at="2017-08-03T16:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPostTOExcel_Table()[pri:0, instance:com.excel.saveData.UsingExcel_SingleDataSet@327471b5]" name="testPostTOExcel_Table" duration-ms="7493" started-at="2017-08-03T16:16:09Z" finished-at="2017-08-03T16:16:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostTOExcel_Table -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.excel.saveData.UsingExcel_SingleDataSet@327471b5]" name="afterClass" is-config="true" duration-ms="539" started-at="2017-08-03T16:16:16Z" finished-at="2017-08-03T16:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.excel.saveData.UsingExcel_SingleDataSet -->
+    </test> <!-- Save_data_Excel -->
+  </suite> <!-- Save data to excel sheet -->
+</testng-results>
